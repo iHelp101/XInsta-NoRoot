@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">XInsta</string>
+
+    <!-- ListView -->
+    <string name="Image">Image Location</string>
+    <string name="Profile">Profile Icon Location</string>
+    <string name="Save">SAVE LOCATIONS</string>
+    <string name="Video">Video Location</string>
+
+    <!-- File Browser -->
+    <string name="nnf_new_folder">New folder</string>
+    <string name="nnf_create_folder_error">Failed to create folder</string>
+    <string name="nnf_name">Name</string>
+    <string name="nnf_select_something_first">Please select something first</string>
+    <string name="nnf_permission_external_write_denied">Permission to access filesystem denied</string>
+
+    <!-- Menu Items !-->
+    <string name="disable_profile">Disable Profile Icon Downloads</string>
+    <string name="error_log">Send Error Logs</string>
+    <string name="translations">Translate XInsta</string>
+
+    <!-- Module -->
+    <string name="Download_Completed">Download Completed</string>
+    <string name="Download_Failed">Download Failed</string>
+    <string name="DownloadDots">Downloading&#8230;</string>
+
+    <!-- Toast Messages -->
+    <string name="Downloading">Downloading %1$s</string>
+    <string name="Hooks_Updated">Hooks have been updated.</string>
+    <string name="I_LocationChanged">Image save location reset to default.</string>
+    <string name="Incorrect_Location">Unable to save here.\nPlease select another location.</string>
+    <string name="P_LocationChanged">Profile icon save location reset to default.</string>
+    <string name="Save_Changed">Save location changed.</string>
+    <string name="V_LocationChanged">Video save location reset to default..</string>
+
+    <!-- Title in notification -->
+    <string name="username_thing">%1$s\'s %2$s</string>
+
+    <!-- Description in notification -->
+    <string name="instagram_item">Instagram %1$s</string>
+
+    <!-- Parameters for above (Downloading photo/video) -->
+    <string name="photo">photo</string>
+    <string name="video">video</string>
+
+	<string name="new_folder">New folder</string>
+    <string name="create_folder_error">Failed to create folder</string>
+    <string name="name">Name</string>
+    <string name="go_back">Go back</string>
+    <string name="select_something_first">Please select something first</string>
+
+</resources>

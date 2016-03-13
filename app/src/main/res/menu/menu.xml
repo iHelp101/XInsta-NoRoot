@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/disable_profile"
+        android:id="@+id/disable_profile"
+        android:checkable="true"/>
+    <item android:title="@string/error_log"/>
+    <item android:title="@string/translations"/>
+</menu>
